@@ -2,7 +2,7 @@
 
  "Wine Quality Prediction using Linear Regression" involves building a machine learning model to predict the quality of wine based on its various features. Linear regression is a supervised learning algorithm used for regression tasks, and it's a suitable choice for predicting continuous numeric values, such as wine quality scores.
 
- # Here's a general outline of the steps involved in my project:
+ *** steps involved in my project  ***
 **Data Collection**: Obtain a dataset containing information about wine features and their corresponding quality scores.
 
 **Data Preprocessing**: Clean the data, handle missing or inconsistent values, and perform feature scaling. Split the dataset into training and testing sets.
